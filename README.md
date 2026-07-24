@@ -1,5 +1,5 @@
 # Patient Satisfaction SQL Analysis Project
-
+![Logo](
 ## 📌 Project Overview
 This project analyzes hospital patient data using **PostgreSQL** to explore how satisfaction scores relate to length of stay, patient age, and service department. It covers the full pipeline: validating the raw dataset, loading it into PostgreSQL, and answering **9 business questions** related to satisfaction, length of stay, at-risk patients, and admission trends. The project demonstrates core SQL concepts including **window functions, CASE-based bucketing, date/time math, and aggregation**.
 
