@@ -192,8 +192,8 @@ ORDER BY service, satisfaction;
 ---
 
 ## 📊 Key Findings
-- **Surgery has the highest average satisfaction (80.3)**, followed by ICU (79.9), emergency (79.5), and general medicine (78.6) — a narrow spread, so service alone isn't a strong driver of satisfaction.
-- **Surgery also has the longest average stay (7.9 days)**, ahead of ICU (7.6), emergency (7.2), and general medicine (7.0). Longer stays don't correlate with lower satisfaction here — surgery has both the longest stays and the highest satisfaction.
+- **Surgery has the highest average satisfaction (80.3)**, followed by ICU (79.9), emergency (79.5), and general medicine (78.6), a narrow spread, so service alone isn't a strong driver of satisfaction.
+- **Surgery also has the longest average stay (7.9 days)**, ahead of ICU (7.6), emergency (7.2), and general medicine (7.0). Longer stays don't correlate with lower satisfaction here. Surgery has both the longest stays and the highest satisfaction.
 - **Age has a mild effect**: patients 0–18 report the highest satisfaction (80.7), while patients 56+ report the lowest (78.7).
 - **24.3% of all patients (243 of 1,000) are "at-risk"** (satisfaction below 70), with general medicine having the most (64), followed by ICU (62) and emergency (62), and surgery the fewest (55).
 - Monthly arrival volume is fairly steady year-round, averaging ~83 patients/month, with no extreme seasonal spikes.
